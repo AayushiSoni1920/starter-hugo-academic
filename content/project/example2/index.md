@@ -2,7 +2,7 @@
 title: Cheque Clearance System
 summary: Webbased platform with Dashboard
 tags:
-- IoT
+- Software Development
 date: "2019-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
