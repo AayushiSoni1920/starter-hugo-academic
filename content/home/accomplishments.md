@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: https://www.datacamp.com/
   date_end: ""
-  date_start: "2021-12"
+  date_start: "2021-12-01"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com/
@@ -33,7 +33,7 @@ item:
   url: ""
 - certificate_url: https://www.datacamp.com/
   date_end: ""
-  date_start: "2021-12"
+  date_start: "2021-12-01"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com/
@@ -41,7 +41,7 @@ item:
   url: ""
 - certificate_url: https://www.datacamp.com/
   date_end: ""
-  date_start: "2021-11"
+  date_start: "2021-11-01"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com/
@@ -49,7 +49,7 @@ item:
   url: ""
 - certificate_url: https://www.datacamp.com/
   date_end: ""
-  date_start: "2021-10"
+  date_start: "2021-10-01"
   description: ""
   organization: DataCamp
   organization_url: https://www.datacamp.com/
