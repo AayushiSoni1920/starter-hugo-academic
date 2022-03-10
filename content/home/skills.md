@@ -29,8 +29,8 @@ feature:
   icon_pack: fas
   name: SQL
 - description: Intermediate
-  icon: chart-user
-  icon_pack: fas
+  icon: microsoft
+  icon_pack: fab
   name: Tableau
 - description: Intermediate
   icon: code
@@ -45,11 +45,11 @@ feature:
   icon_pack: fab
   name: Word
 - description: Proficient
-  icon: paragraph
+  icon: microsoft
   icon_pack: fab
   name: Content Writing
 - description: Proficient
-  icon: magnifying-glass
+  icon: microsoft
   icon_pack: fab
   name: SEO
 - description: Beginner
