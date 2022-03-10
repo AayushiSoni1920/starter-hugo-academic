@@ -32,9 +32,9 @@ experience:
     description: |2-
         Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+        * Worked as a bridge between the client and company, created detailed business analysis by outlining problems opportunities, and solutions for various unique industries
+        * Collaborated in planning all national and international projects by participating in strategic planning meetings with senior management. Defining business requirements from the in-depth data analysis and reporting back to the stakeholders. Created a sales model to enhance brand identity and revenue
+        * Helped to facilitate the effort to recover approx. $8 million in financial variances with CMS. Utilized SQL to analyze data and guide work items resulting in over 54,000 effort hours saved $1.2 million in labour savings
         
   - title: Social Media Marketing Intern
     company: Trinity Unicepts Pvt. Ltd.
@@ -43,7 +43,11 @@ experience:
     location: India
     date_start: '2018-05-01'
     date_end: '2018-07-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        Responsibilities include:
+        
+        * Performed SEO tricks to increase engagement and organic growth. Used on-page and off-page SEO to build brand value, get more sales and develop a tremendous digital identity
+        * Developed relatable creatives like images, reels, videos, and gifs for the various social media platforms and organized in a way that gets a high amount of interaction from the users
 
 design:
   columns: '2'
