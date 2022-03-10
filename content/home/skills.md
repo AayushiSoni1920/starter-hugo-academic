@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: SQL
 - description: Intermediate
-  icon: chart-scatter
+  icon: chart-scatter-3d
   icon_pack: fab
   name: Tableau
 - description: Intermediate
