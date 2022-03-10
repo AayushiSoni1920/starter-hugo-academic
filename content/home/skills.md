@@ -29,19 +29,19 @@ feature:
   icon_pack: fas
   name: SQL
 - description: Intermediate
-  icon: tableau
+  icon: chart-scatter
   icon_pack: fas
   name: Tableau
 - description: Intermediate
-  icon: jupyter
+  icon: code
   icon_pack: fas
   name: Jupyter Notebook
 - description: Proficient
-  icon: excel
+  icon: microsoft
   icon_pack: fas
   name: Excel
 - description: Proficient
-  icon: word
+  icon: microsoft
   icon_pack: fas
   name: Word
 - description: Beginner
