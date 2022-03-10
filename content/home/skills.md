@@ -30,7 +30,7 @@ feature:
   name: SQL
 - description: Intermediate
   icon: chart-scatter
-  icon_pack: fas
+  icon_pack: fab
   name: Tableau
 - description: Intermediate
   icon: code
@@ -38,11 +38,11 @@ feature:
   name: Jupyter Notebook
 - description: Proficient
   icon: microsoft
-  icon_pack: fas
+  icon_pack: fab
   name: Excel
 - description: Proficient
   icon: microsoft
-  icon_pack: fas
+  icon_pack: fab
   name: Word
 - description: Beginner
   icon: chart-line
