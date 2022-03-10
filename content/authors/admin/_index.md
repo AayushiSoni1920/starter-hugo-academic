@@ -70,7 +70,10 @@ email: "aayushisoni1920@gmail.com"
 highlight_name: true
 ---
 
-23-year-old enthusiast and hardworking girl with a vision to provide value with the skillset. I have 2 years of experience in dealing with clients of diverse industries looking for different unique digital solutions to increase revenue and brand reputation. Worked as a bridge between the technical team and clients who design, create and operate sales model/financial model to meet all the expectations of the client.  Creative and curious Business analyst with experience in SaaS Product Management, Business Analysis and Client Communications. Experience in defining product vision and driving product strategy from kick-off to release. Proven expertise in addressing stakeholder needs, identifying MVP functionality and efficient prioritization to enhance customer experience supported by data.  Passionate about product development with proficient storytelling skills and focused on building trust and empathy within teams.
+23-year-old enthusiast and hardworking girl with a vision to provide value with the skillset. I have 2 years of experience in dealing with clients of diverse industries looking for different unique digital solutions to increase revenue and brand reputation. Worked as a bridge between the technical team and clients who design, create and operate sales model/financial model to meet all the expectations of the client.  Creative and curious Business analyst with experience in SaaS Product Management, Business Analysis and Client Communications. Experience in defining product vision and driving product strategy from kick-off to release. 
+
+Proven expertise in addressing stakeholder needs, identifying MVP functionality and efficient prioritization to enhance customer experience supported by data.  Passionate about product development with proficient storytelling skills and focused on building trust and empathy within teams.
+
 I am a self-driven and self-taught business analyst professional with relevant cross-functional and leadership experience. To increase my knowledge I am doing my Masters of Science from Stevens Institute of Technology in Business intelligence and analytics - Hoboken, United States with a major in Data analytics concentration.
 
 
