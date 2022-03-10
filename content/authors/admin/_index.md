@@ -18,9 +18,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Product Strategy
+- Client Communication
+- Product Road-mapping
 
 # Education to show in About widget
 education:
@@ -70,8 +70,8 @@ email: "aayushisoni1920@gmail.com"
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+23-year-old enthusiast and hardworking girl with a vision to provide value with the skillset. I have 2 years of experience in dealing with clients of diverse industries looking for different unique digital solutions to increase revenue and brand reputation. Worked as a bridge between the technical team and clients who design, create and operate sales model/financial model to meet all the expectations of the client.  Creative and curious Business analyst with experience in SaaS Product Management, Business Analysis and Client Communications. Experience in defining product vision and driving product strategy from kick-off to release. Proven expertise in addressing stakeholder needs, identifying MVP functionality and efficient prioritization to enhance customer experience supported by data.  Passionate about product development with proficient storytelling skills and focused on building trust and empathy within teams.
+I am a self-driven and self-taught business analyst professional with relevant cross-functional and leadership experience. To increase my knowledge I am doing my Masters of Science from Stevens Institute of Technology in Business intelligence and analytics - Hoboken, United States with a major in Data analytics concentration.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
