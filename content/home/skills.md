@@ -30,7 +30,7 @@ feature:
   name: SQL
 - description: Intermediate
   icon: chart-user
-  icon_pack: fab
+  icon_pack: fas
   name: Tableau
 - description: Intermediate
   icon: code
