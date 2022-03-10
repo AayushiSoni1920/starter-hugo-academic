@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: SQL
 - description: Intermediate
-  icon: grid-horizontal
+  icon: a-grid-horizontal
   icon_pack: fab
   name: Tableau
 - description: Intermediate
