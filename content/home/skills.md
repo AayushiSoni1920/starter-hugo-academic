@@ -29,7 +29,7 @@ feature:
   icon_pack: fas
   name: SQL
 - description: Intermediate
-  icon: chart-scatter-3d
+  icon: grid-horizontal
   icon_pack: fab
   name: Tableau
 - description: Intermediate
@@ -44,6 +44,14 @@ feature:
   icon: microsoft
   icon_pack: fab
   name: Word
+- description: Proficient
+  icon: paragraph
+  icon_pack: fab
+  name: Content Writing
+- description: Proficient
+  icon: magnifying-glass
+  icon_pack: fab
+  name: SEO
 - description: Beginner
   icon: chart-line
   icon_pack: fas
