@@ -16,18 +16,39 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+- description: Intermediate
   icon: r-project
   icon_pack: fab
   name: R
-- description: 100%
+- description: Intermediate
+  icon: python
+  icon_pack: fab
+  name: Python
+- description: Proficient
+  icon: database
+  icon_pack: fas
+  name: SQL
+- description: Intermediate
+  icon: tableau
+  icon_pack: fas
+  name: Tableau
+- description: Intermediate
+  icon: jupyter
+  icon_pack: fas
+  name: Jupyter Notebook
+- description: Proficient
+  icon: excel
+  icon_pack: fas
+  name: Excel
+- description: Proficient
+  icon: word
+  icon_pack: fas
+  name: Word
+- description: Beginner
   icon: chart-line
   icon_pack: fas
   name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
+
 
 # Uncomment to use emoji icons.
 #- icon: ':smile:'
