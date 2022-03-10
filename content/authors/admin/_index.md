@@ -77,4 +77,4 @@ Proven expertise in addressing stakeholder needs, identifying MVP functionality 
 I am a self-driven and self-taught business analyst professional with relevant cross-functional and leadership experience. To increase my knowledge I am doing my Masters of Science from Stevens Institute of Technology in Business intelligence and analytics - Hoboken, United States with a major in Data analytics concentration.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
