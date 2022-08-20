@@ -1,6 +1,6 @@
 ---
 title: Cheque Clearance System
-summary: Webbased platform with Dashboard
+summary: Web based platform with Dashboard
 tags:
 - Software Development
 date: "2019-04-27T00:00:00Z"

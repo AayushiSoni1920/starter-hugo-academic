@@ -22,6 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Data Analyst Intern
+    company: New Jersey Department of Labor and Workforce
+    company_url: 'https://www.nj.gov/labor/'
+    # company_logo: org-gc
+    location: Trenton, USA
+    date_start: '2022-06-01'
+    date_end: '2022-08-31'
+    description: |2-
+        Responsibilities include:
+        
+        * Worked with the assistant commissioner to understand key metrics, identify the problems, and improve efficiency by extensively using SQL and excel for mining data to uncover insights, trends, and inflection points. Performing ad hoc analysis for data requests when required in weekly data reporting
+        * Analyzing the financial data and performing data visualization using Tableau and Power BI to develop interactive dashboards, which helps them to increase efficiency by 40% in decision making for various government insurance policies like Temporary disability insurance and Family leave insurance
+  
   - title: Business Analyst
     company: Trinity Unicepts Pvt. Ltd.
     company_url: 'https://www.unicepts.in/'
